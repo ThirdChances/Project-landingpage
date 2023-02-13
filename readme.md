@@ -1,0 +1,1 @@
+This is my attempt to make the landing page project for the odin project
